@@ -7,7 +7,7 @@ I'm passionate about extracting insights from data and building intelligent syst
 ## 🛠️ Tech Stack
 
 ```
-Languages: Python | R | SQL | Julia
+Languages: Python | R | SQL 
 ML/AI: TensorFlow | PyTorch | Scikit-learn | Keras
 Data: Pandas | NumPy | Matplotlib | Seaborn | Tableau
 MLOps: Docker | MLflow | Kubeflow | DVC
