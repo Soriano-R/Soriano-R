@@ -38,9 +38,6 @@ Image classification system using convolutional neural networks. Built with Tens
 ### [NLP Analysis Tool]
 Text analysis tool that extracts insights from unstructured data. Utilizes BERT and transformer architectures to deliver sentiment analysis and entity recognition.
 
-## 📫 Let's Connect
-
-Feel free to reach out for collaborations, data science discussions, or ML project ideas!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Soriano-R&color=blue)
 
