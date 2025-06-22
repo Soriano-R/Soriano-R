@@ -1,4 +1,4 @@
-# Hello, I'm Soriano-R 👋
+# Hello, I'm Soriano-R 
 
 ## 📊 Data Scientist | ML Engineer | Problem Solver
 
