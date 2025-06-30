@@ -1,5 +1,5 @@
 # Hello, I'm Soriano-R
-
+Hi there 👋 I’m a data enthusiast on a mission to turn raw data into actionable insights.
 ## Data Scientist | ML Engineer | Problem Solver
 
 I'm passionate about extracting insights from data and building intelligent systems. My repositories showcase my journey through various data science projects, machine learning models, and analytics solutions.
