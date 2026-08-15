@@ -1,5 +1,4 @@
-# Hello, I'm Soriano-R
-Hi there 👋 I’m a data enthusiast on a mission to turn raw data into actionable insights.
+Hi there! I’m a data enthusiast on a mission to turn raw data into actionable insights.
 ## Data Scientist | ML Engineer | Problem Solver
 
 I'm passionate about extracting insights from data and building intelligent systems. My repositories showcase my journey through various data science projects, machine learning models, and analytics solutions.
@@ -19,12 +18,6 @@ MLOps: Docker, MLflow, Kubeflow, DVC
 - Large language models fine-tuning
 - Time series forecasting
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soriano-R&show_icons=true&theme=tokyonight&hide_rank=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soriano-R&layout=compact&theme=tokyonight&hide_border=true)
-
 ## Featured Projects
 
 ### Predictive Analytics Model
@@ -38,4 +31,4 @@ Text analysis tool that extracts insights from unstructured data. Utilizes BERT 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Soriano-R&color=blue)
 
-Last Updated: June 2025
+Last Updated: August 2026
